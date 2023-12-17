@@ -1,4 +1,14 @@
 {
+
+   "signup": [
+    {
+      "id": 1,
+      "name": "ibrahim mohamed",
+      "email": "ibrahimmohamed@gmail.com",
+      "phone": "01284954021",
+      "password": "12345"
+    }
+  ],
   "alexandria":[
     {
       "id": 1,
@@ -81,79 +91,79 @@
   "price": "مجانًا"
 }
   ],
-"cairo":[
-  {
-    "id": 11,
-    "title": "الأهرامات وأبو الهول",
-    "desc": "عجائب العالم القديم وتحفة معمارية فريدة.",
-    "location": "الجيزة",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/280px-All_Gizah_Pyramids.jpg",
-    "price": "100 جنيهًا"
+  "cairo":[
+    {
+      "id": 11,
+      "title": "الأهرامات وأبو الهول",
+      "desc": "عجائب العالم القديم وتحفة معمارية فريدة.",
+      "location": "الجيزة",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/280px-All_Gizah_Pyramids.jpg",
+      "price": "100 جنيهًا"
+    },
+    {
+    "id": 12,
+    "title": "المتحف المصري",
+    "desc": "كنوز الحضارة المصرية عرضت بشكل مثير.",
+    "location": "وسط القاهرة",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/The_Egyptian_Museum.jpg/280px-The_Egyptian_Museum.jpg" ,
+    "price": "80 جنيهًا"
+    },
+    {
+    "id": 13,
+    "title": "السوق الخان الخليلي",
+    "desc": "تسوق بأجواء تاريخية في القلب القاهري.",
+    "location": "وسط القاهرة",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flickr_-_HuTect_ShOts_-_Khan_El-Khalili_Street_%D8%B4%D8%A7%D8%B1%D8%B9_%D8%AE%D8%A7%D9%86_%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%84%D9%8A_-_Cairo_-_Egypt_-_09_04_2010.jpg/260px-Flickr_-_HuTect_ShOts_-_Khan_El-Khalili_Street_%D8%B4%D8%A7%D8%B1%D8%B9_%D8%AE%D8%A7%D9%86_%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%84%D9%8A_-_Cairo_-_Egypt_-_09_04_2010.jpg",
+    "price": "متغير (حسب التسوق)"
   },
   {
-  "id": 12,
-  "title": "المتحف المصري",
-  "desc": "كنوز الحضارة المصرية عرضت بشكل مثير.",
-  "location": "وسط القاهرة",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/The_Egyptian_Museum.jpg/280px-The_Egyptian_Museum.jpg" ,
-  "price": "80 جنيهًا"
+    "id": 14,
+    "title": "قلعة صلاح الدين الأيوبي",
+    "desc": "تاريخ حراسة القاهرة القديمة.",
+    "location": "وسط القاهرة",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cairo-citadel-1800s.jpg/260px-Cairo-citadel-1800s.jpg",
+    "price": "40 جنيهًا"
   },
   {
-  "id": 13,
-  "title": "السوق الخان الخليلي",
-  "desc": "تسوق بأجواء تاريخية في القلب القاهري.",
-  "location": "وسط القاهرة",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flickr_-_HuTect_ShOts_-_Khan_El-Khalili_Street_%D8%B4%D8%A7%D8%B1%D8%B9_%D8%AE%D8%A7%D9%86_%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%84%D9%8A_-_Cairo_-_Egypt_-_09_04_2010.jpg/260px-Flickr_-_HuTect_ShOts_-_Khan_El-Khalili_Street_%D8%B4%D8%A7%D8%B1%D8%B9_%D8%AE%D8%A7%D9%86_%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%84%D9%8A_-_Cairo_-_Egypt_-_09_04_2010.jpg",
-  "price": "متغير (حسب التسوق)"
-},
-{
-  "id": 14,
-  "title": "قلعة صلاح الدين الأيوبي",
-  "desc": "تاريخ حراسة القاهرة القديمة.",
-  "location": "وسط القاهرة",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cairo-citadel-1800s.jpg/260px-Cairo-citadel-1800s.jpg",
-  "price": "40 جنيهًا"
-},
-{
-  "id": 15,
-  "title": "الزمالك",
-  "desc": "منطقة فاخرة بجوار نهر النيل.",
-  "location": "وسط القاهرة",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Zamalek_Arial.jpg/280px-Zamalek_Arial.jpg",
-  "price": "متغير (حسب التسوق والمطاعم)"
-}
-,
-{
-  "id": 16,
-  "title": "حديقة الأزهر",
-  "desc": "منتزه خضراء يقع بجوار جامع الأزهر.",
-  "location": "وسط القاهرة",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Azhar_Park.jpg/280px-Azhar_Park.jpg",
-  "price": "20 جنيهًا"
-},
-{
-  "id": 17,
-  "title": "مسجد محمد علي",
-  "desc": "أحد أهم المساجد في مصر.",
-  "location": "وسط القاهرة",
-  "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Mohamed_Ali_Mosque_HDR.jpg/280px-Mohamed_Ali_Mosque_HDR.jpg",
-  "price": "20 جنيهًا"
-},
-{
-  "id": 18,
-  "title": "شارع المعز لدين الله",
-  "desc": "تجربة تسوق تاريخية في متاجر العصور الوسطى.",
-  "location": "وسط القاهرة",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%D9%84%D8%A7%D9%81%D8%AA%D8%A9_%D8%B4%D8%A7%D8%B1%D8%B9_%D8%A7%D9%84%D9%85%D8%B9%D8%B2_%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D9%84%D9%81%D8%A7%D8%B7%D9%85%D9%8A.jpg/220px-%D9%84%D8%A7%D9%81%D8%AA%D8%A9_%D8%B4%D8%A7%D8%B1%D8%B9_%D8%A7%D9%84%D9%85%D8%B9%D8%B2_%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D9%84%D9%81%D8%A7%D8%B7%D9%85%D9%8A.jpg",
-  "price": "متغير (حسب التسوق)"
-},
-{
-  "id": 19,
-  "title": "حديقة الفسطاط",
-  "desc": "متنزه ضخم على ضفاف نهر النيل.",
-  "location": "الفسطاط",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Fostat-329.jpg/248px-Fostat-329.jpg",
-  "price": "30 جنيهًا"
-}
-]
+    "id": 15,
+    "title": "الزمالك",
+    "desc": "منطقة فاخرة بجوار نهر النيل.",
+    "location": "وسط القاهرة",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Zamalek_Arial.jpg/280px-Zamalek_Arial.jpg",
+    "price": "متغير (حسب التسوق والمطاعم)"
+  }
+  ,
+  {
+    "id": 16,
+    "title": "حديقة الأزهر",
+    "desc": "منتزه خضراء يقع بجوار جامع الأزهر.",
+    "location": "وسط القاهرة",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Azhar_Park.jpg/280px-Azhar_Park.jpg",
+    "price": "20 جنيهًا"
+  },
+  {
+    "id": 17,
+    "title": "مسجد محمد علي",
+    "desc": "أحد أهم المساجد في مصر.",
+    "location": "وسط القاهرة",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Mohamed_Ali_Mosque_HDR.jpg/280px-Mohamed_Ali_Mosque_HDR.jpg",
+    "price": "20 جنيهًا"
+  },
+  {
+    "id": 18,
+    "title": "شارع المعز لدين الله",
+    "desc": "تجربة تسوق تاريخية في متاجر العصور الوسطى.",
+    "location": "وسط القاهرة",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%D9%84%D8%A7%D9%81%D8%AA%D8%A9_%D8%B4%D8%A7%D8%B1%D8%B9_%D8%A7%D9%84%D9%85%D8%B9%D8%B2_%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D9%84%D9%81%D8%A7%D8%B7%D9%85%D9%8A.jpg/220px-%D9%84%D8%A7%D9%81%D8%AA%D8%A9_%D8%B4%D8%A7%D8%B1%D8%B9_%D8%A7%D9%84%D9%85%D8%B9%D8%B2_%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D9%84%D9%81%D8%A7%D8%B7%D9%85%D9%8A.jpg",
+    "price": "متغير (حسب التسوق)"
+  },
+  {
+    "id": 19,
+    "title": "حديقة الفسطاط",
+    "desc": "متنزه ضخم على ضفاف نهر النيل.",
+    "location": "الفسطاط",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Fostat-329.jpg/248px-Fostat-329.jpg",
+    "price": "30 جنيهًا"
+  }
+  ]
 }
