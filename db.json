@@ -165,5 +165,47 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Fostat-329.jpg/248px-Fostat-329.jpg",
     "price": "30 جنيهًا"
   }
+  ],
+  "aswan":[
+    {
+      "id":20,
+      "title":"معبد فيله",
+      "desc":"يُعد معبد فيلة من المعابد الفرعونية الهامة في أسوان، والذي يرجع تاريخ بنائه إلى القرن الثالث ق.م والذي كان مخصصًا لعبادة الإله إيزيسومن بعد ذلك توالت عليه العصور البيزنطية والرومانية واليونانية",
+      "image":"https://tripzel.com/wp-content/uploads/2022/06/temple-of-philae-1.jpg?ezimgfmt=rs:1000x673/rscb1/ng:webp/ngcb1",
+      "location":"اسوان",
+      "price":"140 جنيها"
+    },
+    {
+      "id":21,
+      "title":"معبدا أبو سمبل",
+      "desc":"يضم المعبد الكبير 4 تماثيل ضخمة للملك رمسيس الثاني، تتصدر المعبد، وعند أقدامه تماثيل صغيرة تمثل أبناء الملك، وزوجته، وأمه.",
+      "location":"اسوان",
+      "image":"https://watanimg.elwatannews.com/image_archive/original_lower_quality/13912342911603360316.jpg",
+      "price":"150 جنيها"
+    },
+    {
+      "id":22,
+      "title":"مسجد الطابية",
+      "desc":"يُعد مسجد الطابية من أبرز المساجد بأسوان، وقد افتتح في عام 1974م، فيتميز بالتصميم المملوكي والطراز المعماري والهندسي الفولاذي، ويتسع عددًا مهولًا من الأشخاص.",
+      "location":"اسوان",
+      "image":"https://tripzel.com/wp-content/uploads/2022/06/eltabia-mosque.jpg?ezimgfmt=rs:1000x666/rscb1/ng:webp/ngcb1",
+      "price":"مجانا"
+    },
+    {
+      "id":23,
+      "title":"معبد كلابشة",
+      "desc":"يُعد معبد كلابشة من أبرز المعابد النوبية القديمة، ومن أهم معالم أسوان، وقد تم بنائه في عام 30 ق.م في العصر البطلمي.",
+      "location":"اسوان",
+      "image":"https://tripzel.com/wp-content/uploads/2022/06/temple-of-kalabsha.jpg?ezimgfmt=rs:1000x751/rscb1/ng:webp/ngcb1",
+      "price":"100 جنيهًا"
+    },
+    {
+      "id":24,
+      "title":"السد العالي",
+      "location":"اسوان",
+      "desc":"يُعد من إحدى إنجازات وأعمال مصر، وأحد أبرز المعالم السياحية الشهيرة، حيث يمتاز بتصميمه الهندسي المعماري البارع والمتميز، حيث أُفتتح رسميًا عام 1971م.",
+      "image":"https://tripzel.com/wp-content/uploads/2022/06/high-dam.jpg?ezimgfmt=rs:1000x666/rscb1/ng:webp/ngcb1",
+      "price":"80 جنيهًا"
+    }
   ]
 }
